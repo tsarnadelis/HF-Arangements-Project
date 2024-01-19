@@ -1,2 +1,3 @@
 # HF Arangements Project
- Files for class HF Arangements at 6th Semester in AUTH
+Project for class HF Arangements (Διατάξεις Υψηλών Συχνοτήτων) at 6th Semester in ECE, Aristotle University of Thessaloniki.
+Code mainly in MATLAB.
