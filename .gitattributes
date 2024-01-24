@@ -1,1 +1,4 @@
-
+Project1/Matlab Analysis/** linguist-language=MATLAB
+Project2/** linguist-language=MATLAB
+*.pdf linguist-documentation
+*.docx linguist-documentation
