@@ -1,5 +1,4 @@
-* linguist-vendored
-Project1/** linguist-language=MATLAB
+Project1/MatlabAnalysis/** linguist-language=MATLAB
 Project2/** linguist-language=MATLAB
 *.pdf linguist-documentation
 *.docx linguist-documentation
